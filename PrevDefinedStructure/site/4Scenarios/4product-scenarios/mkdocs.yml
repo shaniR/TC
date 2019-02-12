@@ -1,0 +1,18 @@
+site_name: WSo2 API Manager 2.6.0
+site_url: https://docs.wso2.com/apim
+repo_url: https://github.com/shaniR/product-apim/tree/product-scenarios
+repo_uri: product-scenarios
+site_description: WSO2 API Manager
+site_author: WSO2, Inc.
+copyright: 2018 WSO2, Inc.
+nav:
+    - Home2: 'product-scenarios/index.md'
+    - API Versioning: 
+        - API Updates Using New Versions: '/product-scenarios/1-api-updates-using-new-versions/README.md'   
+theme:
+    name: mkdocs
+    highlightjs: true
+    hljs_languages:
+        - yaml
+        - django
+
